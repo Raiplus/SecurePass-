@@ -37,7 +37,7 @@ SecurePass is a simple web-based password strength validator that helps users ch
 3. Enter a password and check the validation messages!  
 
 ## 🖥️ Live Demo
-🔗 [Live Preview](#) (Deploy it on GitHub Pages or Netlify)
+🔗 [Live Preview](https://raiplus.github.io/SecurePass-/)
 
 ## 💡 Technologies Used
 - **HTML** for structure  
